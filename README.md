@@ -3,8 +3,25 @@ DeepLearning.AI TensorFlow Developer Repo containing all the unsolved programmin
 
 ## Assignments
 - #### Course 1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-	- [Week 1 - PA 1 - Python basics with numpy (Optional) ](https://github.com/Redolid/Deep-Learning-Specialization-Andrew/blob/master/1-Neural%20Networks%20and%20Deep%20Learning/Week%202/1-Python_Basics_With_Numpy_v3a.ipynb)
-	- [Week 2 - PA 2 - Logistic Regression with a Neural Network mindset](https://github.com/Redolid/Deep-Learning-Specialization-Andrew/blob/master/1-Neural%20Networks%20and%20Deep%20Learning/Week%202/2-Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb) 
-	- [Week 3 - PA 3 - Planar data classification with a hidden layer](https://github.com/Redolid/Deep-Learning-Specialization-Andrew/blob/master/1-Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
-	- [Week 4 - PA 4 - Building your deep neural network: Step by Step](https://github.com/Redolid/Deep-Learning-Specialization-Andrew/blob/master/1-Neural%20Networks%20and%20Deep%20Learning/Week%204/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
-	- [Week 4 - PA 5 - Deep Neural Network Application](https://github.com/Redolid/Deep-Learning-Specialization-Andrew/blob/master/1-Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
+	- [Week 1 - PA 1 - Exercise_1_House_Prices_Question](https://github.com/Redolid/DeepLearning.AI-TensorFlow-Developer/blob/master/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%201/utf-8''Exercise_1_House_Prices_Question.ipynb)
+	- [Week 2 - PA 2 - Exercise 2](https://github.com/Redolid/DeepLearning.AI-TensorFlow-Developer/blob/master/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%202/utf-8''Exercise2-Question.ipynb) 
+	- [Week 3 - PA 3 - Exercise 3](https://github.com/Redolid/DeepLearning.AI-TensorFlow-Developer/blob/master/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%203/utf-8''Excercise-3-Question.ipynb)
+	- [Week 4 - PA 4 - Exercise 4](https://github.com/Redolid/DeepLearning.AI-TensorFlow-Developer/blob/master/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%204/utf-8''Exercise4-Question.ipynb)
+
+- #### Course 2 - Convolutional Neural Networks in TensorFlow
+	- [Week 1 - PA 1 - Exercise_1_Cats_vs_Dogs_Question-FINAL](https://github.com/Redolid/DeepLearning.AI-TensorFlow-Developer/blob/master/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201/utf-8''Exercise_1_Cats_vs_Dogs_Question-FINAL.ipynb)
+	- [Week 2 - PA 2 - Exercise_2_Cats_vs_Dogs_using_augmentation_Question-FINAL](https://github.com/Redolid/DeepLearning.AI-TensorFlow-Developer/blob/master/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202/utf-8''Exercise_2_Cats_vs_Dogs_using_augmentation_Question-FINAL.ipynb) 
+	- [Week 3 - PA 3 - Exercise_3_Horses_vs_humans_using_Transfer_Learning_Question-FINAL](https://github.com/Redolid/DeepLearning.AI-TensorFlow-Developer/blob/master/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203/utf-8''Exercise_3_Horses_vs_humans_using_Transfer_Learning_Question-FINAL.ipynb)
+	- [Week 4 - PA 4 - Exercise_4_Multi_class_classifier_Question-FINAL](https://github.com/Redolid/DeepLearning.AI-TensorFlow-Developer/blob/master/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204/utf-8''Exercise_4_Multi_class_classifier_Question-FINAL.ipynb)
+
+- #### Course 3 - Natural Language Processing in TensorFlow
+	This course's Assignments is Solved in class materials
+- #### Course 4 - Sequences, Time Series and Prediction
+	This course's Assignments is Solved in class materials
+
+- ### Certificates:
+  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/282LUASKWYVS)
+  - [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/DCBP7FLPZP7E)
+  - [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/UXJYVSEANT94)
+  - [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/SR5HQDWE4PTP)
+  - [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TU6T32SXUCWW)
